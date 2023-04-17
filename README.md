@@ -18,4 +18,3 @@ Algorithms and Data Structure
         c. The result must be stored in a variable. For example:
             i. $id = generarId()
             ii. id is ~ abc1-bb12-234a-bcc2
-    4. Send the repository to: join-us@lexartlabs.com with the subject: "Name of the candidate - FrontEnd Test - Algorithms"
